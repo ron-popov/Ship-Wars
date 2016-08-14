@@ -1,0 +1,7 @@
+name: shipWars
+main: shipWars.shipWars
+version: 0.3
+commands:
+   sw:
+      description: ShipWars commands
+      usage: /<command>

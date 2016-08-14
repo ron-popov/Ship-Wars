@@ -1,0 +1,7 @@
+Error Log
+
+0 - Game config file didn't have 3 locations per game
+1 - The size of the materials array and the location array (game block restore system) didn't have the same size
+6 - Both team have no players on game end
+7 - Player exists in more than one game
+11 - Thread Timer Interrupted
