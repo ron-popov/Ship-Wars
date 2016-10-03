@@ -8,9 +8,9 @@ ___
 # How to implement
 1.Create a pretty lobby area</br>
 2.Put a sign a write on it :
-    ..1."<shipWars>"
-    ..2.x,y,z (Of the first team's spawn)
-    ..3.x,y,z (Of the second team's spawn)
-    ..4.name_of_world_the_game_is_in (optional)  
+..1."<shipWars>"
+..2.x,y,z (Of the first team's spawn)
+..3.x,y,z (Of the second team's spawn)
+..4.name_of_world_the_game_is_in (optional)  
 3.Right click the sign</br>
 4.Play and Have Fun !
