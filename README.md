@@ -8,17 +8,9 @@ ___
 # How to implement
 1.Create a pretty lobby area</br>
 2.Put a sign a write on it :
-⋅⋅1."<shipWars>"
-⋅⋅2. x,y,z (Of the first team's spawn)
-⋅⋅3. x,y,z (Of the second team's spawn)
-⋅⋅4. name_of_world_the_game_is_in (optional)  
+   * "<shipWars>"
+   * x,y,z (Of the first team's spawn)
+   * x,y,z (Of the second team's spawn)
+   * name_of_world_the_game_is_in (optional)  
 3.Right click the sign</br>
 4.Play and Have Fun !
-
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
