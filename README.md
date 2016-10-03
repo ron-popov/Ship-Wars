@@ -15,6 +15,3 @@ ___
    
 3.Right click the sign</br>
 4.Play and Have Fun !
-
-P.S  
-By tag i mean like html tag so like div tag , or html tag , a shipWars tag , i can't print it because of ... issues
