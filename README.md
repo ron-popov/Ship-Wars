@@ -8,10 +8,13 @@ ___
 # How to implement
 1.Create a pretty lobby area</br>
 2.Put a sign a write on it :
-   * "<shipWars>"
+   * tag "shipWars"
    * x,y,z (Of the first team's spawn)
    * x,y,z (Of the second team's spawn)
    * name_of_world_the_game_is_in (optional)  
    
 3.Right click the sign</br>
 4.Play and Have Fun !
+
+P.S
+By tag i mean like html tag so like div tag , or html tag , a shipWars tag , i can't print it because of ... issues
