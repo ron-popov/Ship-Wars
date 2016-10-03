@@ -8,7 +8,7 @@ ___
 # How to implement
 1.Create a pretty lobby area</br>
 2.Put a sign a write on it :
-   * tag "shipWars"
+   * '<shipWars>'
    * x,y,z (Of the first team's spawn)
    * x,y,z (Of the second team's spawn)
    * name_of_world_the_game_is_in (optional)  
